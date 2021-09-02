@@ -120,6 +120,7 @@
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.0",
     "rc": "^1.2.8",
+    "react-currency-format": "^1.0.0",
     "readdirp": "^3.6.0",
     "registry-auth-token": "^4.2.1",
     "registry-url": "^5.1.0",
